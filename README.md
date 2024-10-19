@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @akaday
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+![pgAdmin4](https://img.shields.io/badge/pgAdmin4-808000)
+![Postman](https://img.shields.io/badge/Postman-FFFF00)
+![GoLand](https://img.shields.io/badge/GoLand-800085)
+![CLion](https://img.shields.io/badge/CLion-834585)
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
+![Power_shell](https://img.shields.io/badge/PowerShell-FF5555) 
+
+
+<!---
+akaday/akaday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
