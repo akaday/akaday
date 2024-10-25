@@ -1,3 +1,4 @@
+<img width="249" alt="dream team" src="https://github.com/user-attachments/assets/402d3201-f78b-4807-b075-037c4fd7c358">
 ![mona](https://github.com/user-attachments/assets/55922dfe-a14c-42ad-82eb-e263a7cae6c5)
 - 👋 Hi, I’m @akaday
 - 👀 I’m interested in engineering
