@@ -1,3 +1,25 @@
+# Project Title
+
+A brief description of what this project does and who it's for.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Installation
+
+Instructions on how to install dependencies and run the project.
+
+## Usage
+
+Instructions on how to use the project.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
 #
 <img width="249" alt="dream team" src="https://github.com/user-attachments/assets/402d3201-f78b-4807-b075-037c4fd7c358">
 ##
