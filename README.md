@@ -2,7 +2,7 @@
 #
 <img width="249" alt="dream team" src="https://github.com/user-attachments/assets/402d3201-f78b-4807-b075-037c4fd7c358">
 ##
-[mona](https://github.com/user-attachments/assets/55922dfe-a14c-42ad-82eb-e263a7cae6c5)
+
 - 👋 Hi, I’m @akaday
 - 👀 I’m interested in engineering
 - 🌱 I’m currently learning as i reboot with large canal
@@ -14,7 +14,7 @@
 - 
         ![Uploading mona.jpg…]() ,
 
-![WIN_20241005_20_09_29_Pro](https://github.com/user-attachments/assets/99f69bc3-1967-46db-be47-40329212b1e1)
+![Capture d’écran_25-10-2024_15326_github-production-user-asset-6210df s3 amazonaws com](https://github.com/user-attachments/assets/3a48e877-da3f-4174-94c1-c68160753bc1)
 
 
 <!---
