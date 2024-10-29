@@ -1,5 +1,5 @@
-![Turtle Graphic](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAABIO6ULAAAACXBIWXMAAB7CAAAewgFu0HU+AAAASUlEQVR42mJgYGD4T4OW0HBn5Pi/NMG4seOVZz60foGBgrHXOYMcFAaqN9ZAjBpILyg9EvDNcTAQvBQA9grFw/1YBCaCgPjE7aGJRxXwQBAD8vwph/J0RqAAAAABJRU5ErkJggg==)
-#
+![cool graphics with turtle](https://github.com/user-attachments/assets/ed0e5c10-a9bf-45c1-b0cf-029742dccd71)
+
 <img width="249" alt="dream team" src="https://github.com/user-attachments/assets/402d3201-f78b-4807-b075-037c4fd7c358">
 ##
 
