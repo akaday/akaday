@@ -9,9 +9,9 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... +212643750870
 - 😄 Pronouns: ... Mustapha Barki
-- ⚡ Fun fact: ... blessing
-![Turtle Graphic](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAABIO6ULAAAACXBIWXMAAB7CAAAewgFu0HU+AAAASUlEQVR42mJgYGD4T4OW0HBn5Pi/NMG4seOVZz60foGBgrHXOYMcFAaqN9ZAjBpILyg9EvDNcTAQvBQA9grFw/1YBCaCgPjE7aGJRxXwQBAD8vwph/J0RqAAAAABJRU5ErkJggg==)
-- 
+- ⚡ Fun fact: ... blessing,
+            ![Turtle Graphic](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAABIO6ULAAAACXBIWXMAAB7CAAAewgFu0HU+AAAASUlEQVR42mJgYGD4T4OW0HBn5Pi/NMG4seOVZz60foGBgrHXOYMcFAaqN9ZAjBpILyg9EvDNcTAQvBQA9grFw/1YBCaCgPjE7aGJRxXwQBAD8vwph/J0RqAAAAABJRU5ErkJggg==)
+- ,
         ![Uploading mona.jpg…]() ,
 
 ![Capture d’écran_25-10-2024_15326_github-production-user-asset-6210df s3 amazonaws com](https://github.com/user-attachments/assets/3a48e877-da3f-4174-94c1-c68160753bc1)
