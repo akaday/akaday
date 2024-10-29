@@ -1,3 +1,5 @@
+![Capture d'écran 2024-10-29 204331](https://github.com/user-attachments/assets/0017c9cb-f1b0-4749-93d2-e0fb84dd56fc)
+
 ![cool graphics with turtle](https://github.com/user-attachments/assets/ed0e5c10-a9bf-45c1-b0cf-029742dccd71)
 
 <img width="249" alt="dream team" src="https://github.com/user-attachments/assets/402d3201-f78b-4807-b075-037c4fd7c358">
