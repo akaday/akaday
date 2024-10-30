@@ -1,3 +1,12 @@
+Version : 1.95.0-insider (user setup)
+Validation : 912bb683695358a54ae0c670461738984cbb5b95
+Date : 2024-10-28T20:14:20.189Z
+Electron : 32.2.1
+ElectronBuildId : 10427718
+Chromium : 128.0.6613.186
+Node.js : 20.18.0
+V8 : 12.8.374.38-electron.0
+Système d’exploitation : Windows_NT x64 10.0.26120
 ![Capture d'écran 2024-10-29 204331](https://github.com/user-attachments/assets/0017c9cb-f1b0-4749-93d2-e0fb84dd56fc)
 
 ![cool graphics with turtle](https://github.com/user-attachments/assets/ed0e5c10-a9bf-45c1-b0cf-029742dccd71)
