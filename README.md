@@ -4,6 +4,7 @@ I'm passionate about engineering, automation, and embedded systems. Welcome to m
 
 ## 🚀 Projects and Contributions
 
+- **[ActionGuard](https://github.com/akaday/ActionGuard)**: A tool designed to enhance the security of GitHub Actions workflows by detecting potential security issues such as hardcoded secrets, deprecated actions, and insecure configurations.
 - **[Project Name](link-to-project)**: Brief description of what the project does and why it's interesting or useful.
 - **[Another Project](link-to-project)**: Highlight some key features and technologies used.
 - **[Open Source Contributions](link-to-contributions)**: Share some notable open source contributions you've made.
@@ -36,4 +37,4 @@ Blessing! I love exploring new technologies and sharing my knowledge with the co
 
 ![Turtle Graphic](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAABIO6ULAAAACXBIWXMAAB7CAAAewgFu0HU+AAAASUlEQVR42mJgYGD4T4OW0HBn5Pi/NMG4seOVZz60foGBgrHXOYMcFAaqN9ZAjBpILyg9EvDNcTAQvBQA9grFw/1YBCaCgPjE7aGJRxXwQBAD8vwph/J0RqAAAAABJRU5ErkJggg==)
 
-<!---akaday/akaday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.--->
+<!---akaday/akaday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the
