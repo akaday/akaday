@@ -23,6 +23,8 @@ Système d’exploitation : Windows_NT x64 10.0.26120
 
 - 👋 Hi, I’m @akaday
 - 👀 I’m interested in engineering
+- [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow)](https://paypal.me/barki0)
+
 - 🌱 I’m currently learning as i reboot with large canal
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... +212643750870
