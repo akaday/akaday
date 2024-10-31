@@ -12,7 +12,7 @@ I'm passionate about engineering, automation, and embedded systems. Welcome to m
 ## 🛠️ Skills and Technologies
 
 - **Languages**: JavaScript, Python, Java, Rust, etc.
-- **Frameworks and Libraries**: React, Node.js, Django, etc.
+- **Frameworks and Libraries**: React, Node.js, Npm, Git, Django, etc.
 - **Tools and Platforms**: Docker, Kubernetes, AWS, Azure, GitHub Actions, etc.
 
 ## 📫 How to Reach Me
