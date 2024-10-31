@@ -37,7 +37,8 @@ Blessing! I love exploring new technologies and sharing my knowledge with the co
 
 ![Turtle Graphic](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAABIO6ULAAAACXBIWXMAAB7CAAAewgFu0HU+AAAASUlEQVR42mJgYGD4T4OW0HBn5Pi/NMG4seOVZz60foGBgrHXOYMcFAaqN9ZAjBpILyg9EvDNcTAQvBQA9grFw/1YBCaCgPjE7aGJRxXwQBAD8vwph/J0RqAAAAABJRU5ErkJggg==)
 
-<!---akaday/akaday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the
+# <!---akaday/akaday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the
+
 In the Heart of the Storm
 
 Beneath the wail of the wind's fierce cry, Where angry waves kiss the midnight sky, In the heart of the storm, where fears abide, Brave souls venture, their courage our guide.
