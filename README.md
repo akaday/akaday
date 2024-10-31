@@ -1,4 +1,4 @@
-# Hi there 👋, I'm @akaday!
+# Hi there 👋, I'm @akaday
 
 I'm passionate about engineering, automation, and embedded systems. Welcome to my GitHub profile! Here you'll find my projects, contributions, and ways to connect with me.
 
