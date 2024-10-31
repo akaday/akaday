@@ -4,8 +4,12 @@ IM GRATEFULL , consider buying me a coffee! Your support is greatly appreciated.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow)](https://paypal.me/barki0)
 
-
-Version : 1.95.0-insider (user setup)
+PS C:\Users\start> code-insiders -v
+1.96.0-insider
+02565ff910d27d58cb375a2a4162ac857990e6fc
+x64
+PS C:\Users\start>
+ (user setup)
 Validation : 912bb683695358a54ae0c670461738984cbb5b95
 Date : 2024-10-28T20:14:20.189Z
 Electron : 32.2.1
