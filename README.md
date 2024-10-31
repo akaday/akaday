@@ -1,6 +1,6 @@
 ## Support
 
-If you find this project helpful, consider buying me a coffee! Your support is greatly appreciated.
+IM GRATEFULL , consider buying me a coffee! Your support is greatly appreciated.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-yellow)](https://paypal.me/barki0)
 
