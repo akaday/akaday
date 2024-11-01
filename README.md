@@ -1,4 +1,5 @@
 # Hi there 👋, I'm @akaday
+![llw25](https://github.com/user-attachments/assets/3534662f-b57c-4c6c-b527-c0bb916d718a)
 
 I'm passionate about engineering, automation, and embedded systems. Welcome to my GitHub profile! Here you'll find my projects, contributions, and ways to connect with me.
 
