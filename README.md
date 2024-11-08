@@ -1,5 +1,6 @@
 # Hi there 👋, I'm @akaday
 <img width="227" alt="achievmnt" src="https://github.com/user-attachments/assets/2fbbc639-c2b3-4a5e-99ee-f2ec90a1cbbe">
+<img width="487" alt="sinderhos" src="https://github.com/user-attachments/assets/1ba4e211-91f8-47db-961f-2bf48692a56c">
 
 ![llw25](https://github.com/user-attachments/assets/3534662f-b57c-4c6c-b527-c0bb916d718a)
 
