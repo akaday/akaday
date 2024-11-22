@@ -35,6 +35,7 @@ I'm passionate about engineering, automation, and embedded systems. Welcome to m
 
 ## ❤️ Support ENGINEER AUTOMATION EMBEDDED SYSTEMS
 In the Heart of the Storm
+![Uploading Capture d'écran 2024-11-21 212706.png…]()
 
 Beneath the wail of the wind's fierce cry, Where angry waves kiss the midnight sky, In the heart of the storm, where fears abide, Brave souls venture, their courage our guide.
 
