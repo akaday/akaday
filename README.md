@@ -1,5 +1,6 @@
 # Hi there 👋, I'm @akaday ![Capture d'écran 2024-11-12 230856](https://github.com/user-attachments/assets/aa56cfc7-71f1-492a-8905-9b82605bacb6)
-![Uploading image.png…]()
+![Uploading image.png…]()![Capture d'écran 2024-12-04 013740](https://github.com/user-attachments/assets/9628b62a-b890-412d-a50d-703d39b25e62)
+
 ![morocco-independence-day-2024-6753651837110323-2xa](https://github.com/user-attachments/assets/ee25abe6-972d-4f9b-8640-a7b17edd6914)
 <a href="https://github.com/akaday/akaday/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=akaday/akaday" />
