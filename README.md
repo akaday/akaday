@@ -1,6 +1,34 @@
 # Hi there 👋, I'm @akaday ![Capture d'écran 2024-11-12 230856](https://github.com/user-attachments/assets/aa56cfc7-71f1-492a-8905-9b82605bacb6)
 ![Uploading image.png…]()![Capture d'écran 2024-12-04 013740](https://github.com/user-attachments/assets/9628b62a-b890-412d-a50d-703d39b25e62)
+ gh skyline
 
+           ____ _ _   _   _       _
+          / ___(_) |_| | | |_   _| |__
+         | |  _| | __| |_| | | | | '_ \
+         | |_| | | |_|  _  | |_| | |_) |
+          \____|_|\__|_| |_|\__,_|_.__/
+
+          ____  _          _ _
+         / ___|| | ___   _| (_)_ __   ___
+         \___ \| |/ / | | | | | '_ \ / _ \
+          ___) |   <| |_| | | | | | | __/
+         |____/|_|\_\\__, |_|_|_| |_|\___|
+                    |___/
+
+
+                                        ┃┃╻╻╻╻╻  ╻..
+                                        ░░▒░░░░╻ ░..
+                                        ░░▒▒░░░░╻░╻.
+                                        ▒░▒░░░░░░░░.
+                                       ╽▒░░▒░░░░░░░..
+                                       ▒▓░░▒░░░░░░░..
+                                       ▒▓░░▓░░░░░░░..
+
+                       akaday
+                        2024
+
+Model generation complete: 321000 total triangles
+STL file written successfully to: akaday-2024-github-skyline.stl
 ![morocco-independence-day-2024-6753651837110323-2xa](https://github.com/user-attachments/assets/ee25abe6-972d-4f9b-8640-a7b17edd6914)
 <a href="https://github.com/akaday/akaday/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=akaday/akaday" />
